@@ -24,3 +24,12 @@ https://userstyles.org/styles/128030/darkblack-ksp-forum
 Other KSP Forum themes for Stylish:
 
 https://userstyles.org/styles/browse?search_terms=kerbal
+
+
+A few relevant, very informative KSP Forum threads on changing/customizing your own themes, and how n.b.z wrote his Stylish theme, which can be "customized" by any one:
+
+http://forum.kerbalspaceprogram.com/index.php?/topic/127797-made-a-new-forum-style-light-text-on-dark-background/
+
+http://forum.kerbalspaceprogram.com/index.php?/topic/126808-made-a-user-style-to-increase-forum-contrast-and-available-space/
+
+
