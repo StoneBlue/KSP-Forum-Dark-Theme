@@ -33,3 +33,6 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/127797-made-a-new-forum-sty
 http://forum.kerbalspaceprogram.com/index.php?/topic/126808-made-a-user-style-to-increase-forum-contrast-and-available-space/
 
 
+LICENSE:
+CC0 1.0 Universal (CC0 1.0) Public Domain
+https://creativecommons.org/publicdomain/zero/1.0/
