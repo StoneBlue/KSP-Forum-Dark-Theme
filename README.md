@@ -2,7 +2,9 @@
 
 After the KSP forum switch to the new IPS software, many people seemed to not like the all-white background, with ligh-grey text.
 
-Forum user n.b.z was awesome enough to make a Dark Blue forum theme, useable with the Stylish addon.
+Forum user n.b.z was awesome enough to make a Dark Blue forum theme, useable with the Stylish addon. He wrote the over 1200 lines of code for this, so please give him some rep by liking his post, and give him a "Thank You" post, as well:
+
+http://forum.kerbalspaceprogram.com/index.php?/topic/127797-made-a-new-forum-style-light-text-on-dark-background/
 
 I prefer REALLY dark, mostly black themes, and n.b.z was kind enough to give permission for me to tweak his theme.
 
