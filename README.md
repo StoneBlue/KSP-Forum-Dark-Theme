@@ -10,4 +10,17 @@ This is my clumsy version of that theme.
 
 Relevant Links:
 
+Pics:
 https://imgur.com/a/eLpXv
+
+Stylish (browser plugin) homepage, and submitted "user styles":
+
+https://userstyles.org/
+
+Direct link for my Darkblue KSP Forum theme:
+
+https://userstyles.org/styles/128030/darkblack-ksp-forum
+
+Other KSP Forum themes for Stylish:
+
+https://userstyles.org/styles/browse?search_terms=kerbal
