@@ -652,7 +652,7 @@
 
 
    /* tags */
-    .ipsTag_prefix, .ipsTags, .ipsTags_inline, .ipsResponsive_hidePhone, .ipsResponsive_inline {
+    .ipsTag_prefix, .ipsTags, .ipsTags_inline, .ipsResponsive_hidePhone {
         display: none !important;
     } 
         
