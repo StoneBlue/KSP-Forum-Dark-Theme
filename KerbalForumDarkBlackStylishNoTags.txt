@@ -97,6 +97,7 @@
        padding-right: 10px;
    }
 
+   
    /* denser thread lists */
    .ipsDataList_large .ipsDataItem_icon,
    .ipsDataList_large .ipsDataItem_main, .ipsDataList_large .ipsDataItem_stats, .ipsDataList_large .ipsDataItem_lastPoster, .ipsDataList_large .ipsDataItem_generic
@@ -651,27 +652,31 @@
 
 
    /* tags */
-   html[dir="ltr"] .ipsTags a::before,
-   html[dir="ltr"] .ipsTag_prefix::before {
-       border-color: transparent #113355 transparent transparent;
-   }
-   .ipsTags a, .ipsTag_prefix {
-       color: #ffc !important;
-       background: #113355;
-   }
-   /* tag dots */
-   .ipsTags a::after, .ipsTag_prefix::after {
-       background: #ffc !important;
-   }
-   /* hover styles */
-   html[dir="ltr"] .ipsTags a:hover::before,
-   html[dir="ltr"] .ipsTag_prefix:hover::before {
-       border-color: transparent #335577 transparent transparent;
-   }
-   .ipsTags a:hover {
-       color: #ffe !important;
-       background: #335577;
-   }
+    .ipsTag_prefix, .ipsTags, .ipsTags_inline, .ipsResponsive_hidePhone, .ipsResponsive_inline {
+        display: none !important;
+    } 
+        
+/*   html[dir="ltr"] .ipsTags a::before,
+/*   html[dir="ltr"] .ipsTag_prefix::before {
+/*       border-color: transparent #113355 transparent transparent;
+/*   }
+/*   .ipsTags a, .ipsTag_prefix {
+/*       color: #ffc !important;
+/*       background: #113355;
+/*   }
+/*   /* tag dots */
+/*   .ipsTags a::after, .ipsTag_prefix::after {
+/*       background: #ffc !important;
+/*   }
+/*   /* hover styles */
+/*   html[dir="ltr"] .ipsTags a:hover::before,
+/*   html[dir="ltr"] .ipsTag_prefix:hover::before {
+/*       border-color: transparent #335577 transparent transparent;
+/*   }
+/*   .ipsTags a:hover {
+/*       color: #ffe !important;
+/*       background: #335577;
+/*   }
 
 
    /* quotes */
