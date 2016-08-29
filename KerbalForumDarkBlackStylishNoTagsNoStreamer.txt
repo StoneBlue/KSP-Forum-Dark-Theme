@@ -656,7 +656,7 @@
 
 
    /* tags */
-    .ipsTag_prefix, .ipsTags, .ipsTags_inline, .ipsResponsive_hidePhone {
+    .ipsTag_prefix, .ipsTags, .ipsTags_inline {
         display: none !important;
     } 
         
