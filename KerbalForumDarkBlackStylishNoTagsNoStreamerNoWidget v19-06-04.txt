@@ -1,4 +1,4 @@
-
+@-moz-document url-prefix(){
 /*## IMPORTANT NOTE FOR STYLUS USERS:
 		Requires Stylus users to set "Applies to: URLs on the domain" to forum.kerbalspaceprogram.com  ##*/
     
@@ -1594,3 +1594,4 @@
 			div.ipsPageHeader.ipsClearfix p.ipsType_reset.ipsType_normal.ipsSpacer_bottom {
 				display: none;
 			}
+}
