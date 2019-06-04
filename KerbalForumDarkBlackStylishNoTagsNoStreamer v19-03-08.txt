@@ -551,7 +551,7 @@
 
 			DIV.ipsComment_meta.ipsType_light {
 				background-color: #112233;
-				border-left: 14px solid #112233;
+				border-left: 14px solid #112299;
 			}
 			
 			
