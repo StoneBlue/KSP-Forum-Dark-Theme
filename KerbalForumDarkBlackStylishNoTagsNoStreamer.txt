@@ -520,7 +520,7 @@
        color: #ffdd99;
    }
    .ipsType_blendLinks a {
-       color: #fff4cc;
+       color: #ef7e10;
    }
    a.ipsType_blendLinks:hover:not(.ipsType_noUnderline) {
        color: #ffaa00;
