@@ -1,0 +1,231 @@
+@-moz-document url-prefix("https://forum.kerbalspaceprogram.com/")
+{
+  body
+  {
+    background-color: hsla(240, 10%, 10%, 1.0);
+    color: hsla(240, 0%, 100%, 0.8);
+  }
+
+  h1.ipsType_pageTitle,
+h2.ipsType_pageTitle,
+.ipsType_veryLarge,
+.cStreamFilter a,
+.cStreamFilter h3,
+h3.ipsType_blendLinks
+  {
+    color: hsla(240, 40%, 70%, 0.8);
+  }
+
+  a
+  {
+    color: hsla(240, 80%, 80%, 0.8);
+  }
+
+  #elSearch
+  {
+    background-color: hsla(240, 20%, 10%, 0.8);
+    color: hsla(240, 0%, 100%, 0.8);
+  }
+
+  .ipsStreamItem_time,
+html[dir] .ipsStream_withTimeline .ipsStreamItem.ipsStreamItem_actionBlock:after,
+.ipsStream .ipsStreamItem_contentType
+  {
+    box-shadow: 0 0 0 4px hsla(240, 15%, 15%, 1.0);
+  }
+
+  .ipsDialog > div,
+.ipsDialog_title,
+.ipsDialog_close,
+.ipsStreamItem,
+.ipsTopicMeta__item,
+.ipsAreaBackground,
+.ipsButtonBar,
+.ipsAreaBackground_reset,
+.ipsAlert,
+.ipsTabs_panel,
+.ipsTabs_activeItem,
+.ipsStreamItem_snippet .ipsType_richText,
+.ipsBox
+  {
+    background-color: hsla(240, 15%, 15%, 1.0);
+    color: hsla(240, 0%, 100%, 0.8) !important;
+  }
+
+  .ipsStream_withTimeline li.ipsStreamItem.ipsStreamItem_contentBlock:after
+  {
+    border-right-color: hsla(240, 15%, 15%, 1.0);
+  }
+
+  #ipsLayout_header nav::after
+  {
+    background-color: hsla(240, 15%, 20%, 1.0);
+    color: hsla(240, 0%, 100%, 0.8) !important;
+  }
+
+  .cMessage_active,
+.ipsApp .ipsDataItem_selected
+  {
+    background-color: hsla(240, 20%, 30%, 0.8) !important;
+  }
+
+  .ipsNavBar_active__identifier
+  {
+    border-bottom-color: hsla(240, 15%, 20%, 1.0);
+  }
+
+  .ipsNavBar_secondary > li.ipsNavBar_active a,
+.ipsNavBar_secondary > li > a:hover,
+.ipsNavBar_secondary > li > a
+  {
+    color: hsla(240, 80%, 80%, 0.8);
+  }
+
+  .ipsBreadcrumb
+  {
+    color: hsla(240, 20%, 65%, 0.8);
+  }
+
+  .ipsSpoiler,
+.ipsRichEmbed,
+.ipsQuote
+  {
+    background-color: hsla(240, 15%, 20%, 1.0);
+    border-color: hsla(240, 30%, 40%, 0.8);
+  }
+
+  .ipsSpoiler_header,
+.ipsQuote .ipsTruncate_more,
+.ipsQuote_citation
+  {
+    background-color: hsla(240, 10%, 40%, 0.8);
+    color: hsla(240, 0%, 90%, 0.8);
+  }
+
+  .ipsQuote_contents.ipsTruncate:after
+  {
+    background: linear-gradient(hsla(240, 0%, 0%, 0.01), hsla(240, 10%, 40%, 0.8));
+  }
+
+  .ipsUserPhoto
+  {
+    border-radius: 6px;
+  }
+
+  .ipsPip
+  {
+    color: hsla(240, 60%, 60%, 0.8);
+  }
+
+  #elSearchExpanded,
+.cUserHovercard,
+.ipsDataList_readStatus *,
+.ipsMenu_title,
+.ipsSideMenu_subTitle,
+.ipsHovercard,
+.ipsMenu
+  {
+    background-color: hsla(240, 15%, 25%, 1.0);
+    color: hsla(240, 0%, 100%, 0.8);
+  }
+
+  .ipsHovercard_stemTop .ipsHovercard_stem:before,
+.ipsHovercard_stemTop .ipsHovercard_stem:after
+  {
+    border-top-color: hsla(240, 15%, 25%, 1.0);
+  }
+
+  .ipsHovercard_stemBottom .ipsHovercard_stem:before,
+.ipsHovercard_stemBottom .ipsHovercard_stem:after,
+.ipsMenu.ipsMenu_bottomCenter:after
+  {
+    border-bottom-color: hsla(240, 15%, 25%, 1.0);
+  }
+
+  .ipsMenu.ipsMenu_topCenter:after
+  {
+    border-top-color: hsla(240, 15%, 25%, 1.0);
+  }
+
+  .ipsType_sectionHead
+  {
+    color: hsla(240, 0%, 100%, 0.8);
+  }
+
+  li.ipsMenu_item > a:not(.ipsMenu_itemInline)
+  {
+    color: hsla(240, 0%, 100%, 0.8);
+  }
+
+  .ipsReact_button
+  {
+    filter: grayscale(100%) brightness(80%);
+  }
+
+  .ipsApp input[type="text"],
+[data-ipseditor],
+.cke_reset_all a,
+.cke_button,
+.cke_reset_all *,
+.ipsApp .ipsField_autocomplete,
+.ipsComposeArea_dummy,
+.ipsApp .cke_wysiwyg_frame,
+.ipsApp .cke_wysiwyg_div
+  {
+    background-color: hsla(240, 20%, 10%, 1.0);
+    color: hsla(240, 0%, 100%, 0.8);
+  }
+
+  .cke_button_icon
+  {
+    filter: brightness(300%);
+  }
+
+  .cke_button__ipsspoiler_icon
+  {
+    filter: invert(100%);
+  }
+
+  .ipsComposeArea_withPhoto [data-ipseditor]::after
+  {
+    border-right-color: hsla(240, 20%, 10%, 1.0) !important;
+  }
+
+  .ipsAreaBackground_light
+  {
+    background-color: hsla(240, 25%, 20%, 0.8);
+  }
+
+  .cRatingColumn_on,
+.ipsApp .ipsButton_veryLight,
+.ipsApp .ipsButton_light,
+.ipsButtonBar .ipsButtonRow li > a,
+.ipsButton
+  {
+    background-color: hsla(240, 30%, 40%, 0.8);
+    color: hsla(240, 0%, 100%, 0.8);
+  }
+
+  .ipsComment_ellipsis:hover
+  {
+    background-color: hsla(240, 20%, 50%, 0.8);
+  }
+
+  .ipsButtonBar .ipsPagination,
+.ipsPagination
+  {
+    color: hsla(240, 0%, 100%, 0.8);
+  }
+
+  .cAnswerRate:not(.ipsType_positive):not(.ipsType_negative),
+.ipsPager
+  {
+    color: hsla(240, 20%, 60%, 0.8);
+  }
+
+  #ipsLayout_sidebar,
+footer#ipsLayout_footer
+  {
+    display: none;
+  }
+}
